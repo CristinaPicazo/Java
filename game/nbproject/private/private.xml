@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="1">
+        <file>
+            <url>src/game/Character.java</url>
+            <bookmark id="1">
+                <name/>
+                <line>0</line>
+                <key/>
+            </bookmark>
+        </file>
+    </editor-bookmarks>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/derez/OneDrive/Documentos/NetBeansProjects/game/src/game/characters/Character.java</file>
+            <file>file:/C:/Users/derez/OneDrive/Documentos/NetBeansProjects/game/src/game/vehicles/Car.java</file>
+            <file>file:/C:/Users/derez/OneDrive/Documentos/NetBeansProjects/game/src/game/characters/enemies/Enemy.java</file>
+            <file>file:/C:/Users/derez/OneDrive/Documentos/NetBeansProjects/game/src/game/terrains/Maze.java</file>
+            <file>file:/C:/Users/derez/OneDrive/Documentos/NetBeansProjects/game/src/game/characters/Explorer.java</file>
+            <file>file:/C:/Users/derez/OneDrive/Documentos/NetBeansProjects/game/src/game/characters/enemies/Ghost.java</file>
+            <file>file:/C:/Users/derez/OneDrive/Documentos/NetBeansProjects/game/src/Main.java</file>
+            <file>file:/C:/Users/derez/OneDrive/Documentos/NetBeansProjects/game/src/game/characters/enemies/Witch.java</file>
+        </group>
+    </open-files>
+</project-private>
